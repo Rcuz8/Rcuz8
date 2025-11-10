@@ -16,7 +16,7 @@ I spend most of my time building and operating distributed microservices on Kube
 ## Tech Stack
 
 **Languages & Frameworks:**
-`Go` `TypeScript` `JavaScript` `Node.js` `Python`
+`Go` `TypeScript` `JavaScript` `Node.js` `Python`, `NestJS`, `Next.js`, `React.js`
 
 **Infrastructure & DevOps:**
 `Kubernetes` `Docker` `ArgoCD` `Helm` `Terraform` `CI/CD`
