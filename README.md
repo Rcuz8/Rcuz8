@@ -15,23 +15,38 @@ I spend most of my time building and operating distributed microservices on Kube
 
 ## Tech Stack
 
-**Languages & Frameworks:**
-`Go` `TypeScript` `JavaScript` `Node.js` `Python`, `NestJS`, `Next.js`, `React.js`
+**Languages:**
+`Go` `TypeScript` `JavaScript` `Node.js` `Python` `Swift` `C#` `SQL` `Solidity`
+
+**Backend Frameworks:**
+`NestJS` `Express.js` `Gin`
+
+**Frontend & Mobile:**
+`React` `React Native` `Unity` `Socket.io`
+
+**Machine Learning:**
+`TensorFlow` `Keras` `TensorFlow.js` `Scikit-Learn` `Pandas` `Optuna`
 
 **Infrastructure & DevOps:**
-`Kubernetes` `Docker` `ArgoCD` `Helm` `Terraform` `CI/CD`
+`Kubernetes` `Docker` `ArgoCD` `Helm` `Terraform` `CI/CD` `GitOps`
 
 **Databases & Storage:**
-`PostgreSQL` `Redis` `Object Storage (S3-compatible)`
+`PostgreSQL` `TypeORM` `Redis` `MongoDB` `Firebase` `Object Storage (S3-compatible)`
 
 **Messaging & Communication:**
-`NATS` `REST APIs` `WebSockets`
+`NATS` `JetStream` `REST APIs` `WebSockets`
 
-**Observability:**
-`OpenTelemetry` `Prometheus` `Grafana` `Jaeger`
+**Observability & Monitoring:**
+`OpenTelemetry` `Prometheus` `Grafana` `Jaeger` `Distributed Tracing`
 
 **Cloud Platforms:**
-`IBM Cloud` `Heroku` `Firebase`
+`IBM Cloud` `Heroku` `Firebase` `AWS`
+
+**Testing & Quality:**
+`Jest` `React Testing Library` `Unit Testing` `Integration Testing` `E2E Testing`
+
+**Development Tools:**
+`Git` `Turborepo` `Monorepo` `ESLint` `Fastlane` `TestFlight`
 
 ## Currently Learning
 
